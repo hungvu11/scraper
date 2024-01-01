@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/hungvu11/scraper/build",
+  "command": "/usr/bin/c++   -I/home/hungvu11/scraper/src  -g   -pthread -o CMakeFiles/Scraper.dir/src/main.cpp.o -c /home/hungvu11/scraper/src/main.cpp",
+  "file": "/home/hungvu11/scraper/src/main.cpp"
+},
+{
+  "directory": "/home/hungvu11/scraper/build",
+  "command": "/usr/bin/c++   -I/home/hungvu11/scraper/src  -g   -pthread -o CMakeFiles/Scraper.dir/src/scraper.cpp.o -c /home/hungvu11/scraper/src/scraper.cpp",
+  "file": "/home/hungvu11/scraper/src/scraper.cpp"
+},
+{
+  "directory": "/home/hungvu11/scraper/build",
+  "command": "/usr/bin/c++   -I/home/hungvu11/scraper/src  -g   -pthread -o CMakeFiles/Scraper.dir/src/server.cpp.o -c /home/hungvu11/scraper/src/server.cpp",
+  "file": "/home/hungvu11/scraper/src/server.cpp"
+}
+]

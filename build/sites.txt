@@ -1,0 +1,11 @@
+jd.com
+jd.com:80/
+live.com
+instagram.com
+sina.com.cn
+weibo.com
+google.co.jp
+reddit.com
+vk.com
+360.cn
+login.tmall.com

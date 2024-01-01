@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Scraper.dir/src/main.cpp.o CMakeFiles/Scraper.dir/src/scraper.cpp.o CMakeFiles/Scraper.dir/src/server.cpp.o  -o Scraper -pthread 

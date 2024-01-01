@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SimpleHttpServer.dir/src/main.cpp.o CMakeFiles/SimpleHttpServer.dir/src/scraper.cpp.o CMakeFiles/SimpleHttpServer.dir/src/server.cpp.o  -o SimpleHttpServer -pthread 
